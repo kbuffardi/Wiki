@@ -3,7 +3,7 @@ Wiki Page.
 
 ## Faculty Office Hours
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcDah5J1A6oCpdBscaDF81ydwGgpsnKxaR-Nkv-FSaiFM791FTpAY66T3nW1ZcFpn_Dkw4DPj7TLpl/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe height="900" src="https://docs.google.com/spreadsheets/d/1QVW56oeESJEIzLw1xScfWzZ-mDjXq7QnYgGcA7CjY_c/htmlview?gid=0&amp;single=true&amp;widget=true&amp;headers=false" title="faculty hours" width="900"></iframe>
 
 ## Drop in Tutoring
 
