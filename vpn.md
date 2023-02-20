@@ -1,6 +1,17 @@
-# Using GlobalProtect on Linux
+# Global Protect
 
-## Connecting on Ubuntu and Fedora
+When using global protect on any platform an antivirus is required, check [ITSS details](https://support.csuchico.edu/TDClient/1984/Portal/KB/?CategoryID=15690) for which ones are compatible.
+
+## Using GlobalProtect on Windows/MacOS
+
+ITSS has instructions for these:
+
+* [Windows](https://support.csuchico.edu/TDClient/1984/Portal/KB/ArticleDet?ID=73364)
+* [MacOS](https://support.csuchico.edu/TDClient/1984/Portal/KB/ArticleDet?ID=73363)
+
+## Using GlobalProtect on Linux
+
+### Connecting on Ubuntu and Fedora
 
 You can get the tar with the package files [here](https://www.dropbox.com/s/je49kik69doj2r1/PanGPLinux-6.0.4-c25.tgz?dl=0), and once you download the file, extract it with `tar -xzf PanGPLinux-6.0.4-c25.tgz` and install using your preferred package manager:
 
@@ -15,7 +26,7 @@ sudo apt install ./GlobalProtect_UI_deb-6.0.4.1-28.deb
 
 After this you should be able to launch the GlobalProtect client. Enter `vpn.csuchico.edu` as the portal address and press connect, you will be asked to sign in.
 
-## Connecting on Arch
+### Connecting on Arch
 
 **DUE TO VPN CHANGES THIS MAY NO LONGER WORK**
 
