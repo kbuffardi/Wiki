@@ -31,6 +31,6 @@ After this you should be able to launch the GlobalProtect client. Enter `vpn.csu
 **DUE TO VPN CHANGES THIS MAY NO LONGER WORK**
 
 Arch has a workaround as it does not have an official package for global protect that can be found [here](https://archlinux.org/packages/community/x86_64/globalprotect-openconnect/) and you will be able to connect using this package with the following command:
-```bash
+```
 sudo openconnect --protocol=gp vpn.csuchico.edu
 ```
