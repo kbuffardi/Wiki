@@ -15,13 +15,14 @@ ITSS has instructions for these:
 
 You can get the tar with the package files [here](https://www.dropbox.com/s/je49kik69doj2r1/PanGPLinux-6.0.4-c25.tgz?dl=0), and once you download the file, extract it with `tar -xzf PanGPLinux-6.0.4-c25.tgz` and install using your preferred package manager:
 
-Using RPM (Fedora, RedHat, CentOS) 
-```
-sudo rpm -i GlobalProtect_UI_rpm-6.0.4.1-28.rpm
-```
 Using Apt (Ubuntu)
 ```
 sudo apt install ./GlobalProtect_UI_deb-6.0.4.1-28.deb
+```
+
+Using Yum (Fedora, RedHat, CentOS) 
+```
+sudo yum localinstall GlobalProtect_UI_rpm-6.0.4.1-28.rpm
 ```
 
 After this you should be able to launch the GlobalProtect client. Enter `vpn.csuchico.edu` as the portal address and press connect, you will be asked to sign in.
