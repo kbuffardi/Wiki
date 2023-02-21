@@ -1,6 +1,8 @@
 # CD Wiki
-Wiki Page. 
 
+---
+Other pages: [Setting up a VPN](/vpn)
+---
 
 ## Department Resources
 ### Faculty Office Hours
