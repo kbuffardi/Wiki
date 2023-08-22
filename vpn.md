@@ -11,27 +11,32 @@ ITSS has instructions for these:
 
 ## Using GlobalProtect on Linux
 
-### Connecting on Ubuntu and Fedora
+Currently the only way to connect to GlobalProtect on Linux is using the unofficial [GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) package. This package is maintained by someone not associated with Chico State or Palo Alto Networks, but is Free Open Source Software. Below are instructions for installation provided by the package maintainer.
 
-You can get the tar with the package files [here](https://www.dropbox.com/s/je49kik69doj2r1/PanGPLinux-6.0.4-c25.tgz?dl=0), and once you download the file, extract it with `tar -xzf PanGPLinux-6.0.4-c25.tgz` and install using your preferred package manager:
-
-Using Apt (Ubuntu)
-```
-sudo apt install ./GlobalProtect_UI_deb-6.0.4.1-28.deb
-```
-
-Using Yum (Fedora, RedHat, CentOS) 
-```
-sudo yum localinstall GlobalProtect_UI_rpm-6.0.4.1-28.rpm
+### Linux Mint, Ubuntu 18.04+
+```sh
+sudo add-apt-repository ppa:yuezk/globalprotect-openconnect
+sudo apt-get update
+sudo apt-get install globalprotect-openconnect
 ```
 
-After this you should be able to launch the GlobalProtect client. Enter `vpn.csuchico.edu` as the portal address and press connect, you will be asked to sign in.
+> For Linux Mint, you might need to import the GPG key with: `sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 7937C393082992E5D6E4A60453FC26B43838D761` if you encountered an error `gpg: keyserver receive failed: General error`.
 
-### Connecting on Arch
+### Arch Linux, Manjaro
 
-**DUE TO VPN CHANGES THIS MAY NO LONGER WORK**
-
-Arch has a workaround as it does not have an official package for global protect that can be found [here](https://archlinux.org/packages/community/x86_64/globalprotect-openconnect/) and you will be able to connect using this package with the following command:
+```sh
+sudo pacman -S globalprotect-openconnect
 ```
-sudo openconnect --protocol=gp vpn.csuchico.edu
+
+### AUR snapshot version
+
+```sh
+yay -S globalprotect-openconnect-git
+```
+
+### Fedora
+
+```sh
+sudo dnf copr enable yuezk/globalprotect-openconnect
+sudo dnf install globalprotect-openconnect
 ```
