@@ -11,7 +11,7 @@ Other pages: [Setting up a VPN](/vpn)
 
 ### Drop in Tutoring
 
-<iframe height="900" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT91NgCOmks7K1q5m3Y5Qlc7XGCp2Uaowjp1RxjkjwEuR7BkgLSqBwGyocqrDexgbQugpDP4T_H9ItN/pubhtml?widget=true&amp;headers=false" title="drop in hours" width="900"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=05e9dda7c6209714f0b1dcf8e9076a94963848a9ccc4ed8352e7b89aa5983778%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ## Free Software
