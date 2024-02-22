@@ -40,3 +40,13 @@ yay -S globalprotect-openconnect-git
 sudo dnf copr enable yuezk/globalprotect-openconnect
 sudo dnf install globalprotect-openconnect
 ```
+
+### Using GlobalConnect
+
+The GlobalConnect's GUI option has a trial period, the best way to connect is via the terminal
+
+Once installed you can connect to the vpn with the following command:
+```sh
+sudo gpclient connect vpn.csuchico.edu
+```
+You can exit GlobalConnect with `ctrl + c`
