@@ -2,6 +2,7 @@
 
 ---
 Other pages: [Setting up a VPN](/vpn)
+[Setting up SSH keys](/ssh)
 ---
 
 ## Department Resources
