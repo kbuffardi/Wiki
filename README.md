@@ -7,6 +7,8 @@ Other pages:
 
 [Setting up SSH keys](/ssh)
 
+[Clearing Disk Space in ECC Linux](/disk)
+
 ---
 
 ## Department Resources
