@@ -14,7 +14,7 @@ Other pages:
 ## Department Resources
 ### Faculty Office Hours
 
-<iframe height="900" src="https://docs.google.com/spreadsheets/d/1QVW56oeESJEIzLw1xScfWzZ-mDjXq7QnYgGcA7CjY_c/htmlview?gid=0&amp;single=true&amp;widget=true&amp;headers=false" title="faculty hours" width="900"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_fiF7m2C69dW6_EbLw34q6S186ApXeZqC2CX4lphgA7dR5arNHL0oMpxwr--nhEWebYVHtkX3UKQG/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ### Drop in Tutoring
 
