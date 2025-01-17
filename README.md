@@ -9,6 +9,8 @@ Other pages:
 
 [Clearing Disk Space in ECC Linux](/disk)
 
+[CSCI and CINS Flowcharts](https://www.csuchico.edu/academics/college/engineering/resources/forms.shtml)
+
 ---
 
 ## Department Resources
