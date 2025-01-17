@@ -24,7 +24,7 @@ Other pages:
 
 ### CSCI300 Seminar Schedule
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT1PwzdmtDFdWmNGj21qmwqxZTJGyp4uCrDjPl8GVSFRG2wL56fqRGiY0UqtD6qvej5a07xo2nqgWlm/pubhtml?gid=2090169053&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT1PwzdmtDFdWmNGj21qmwqxZTJGyp4uCrDjPl8GVSFRG2wL56fqRGiY0UqtD6qvej5a07xo2nqgWlm/pubhtml?gid=2090169053&amp;single=true&amp;widget=true&amp;headers=false" height="900" width="900"></iframe>
 
 ## Free Software
 ### Getting Free VMware License from campus
